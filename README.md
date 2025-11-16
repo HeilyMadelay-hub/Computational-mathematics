@@ -81,5 +81,4 @@ Suggestions, corrections, and improvements are always welcome.
 ## 📬 Contact 
 If you want to add more projects, request a customized roadmap, or continue with more advanced levels, open an issue or send a message.
 
-If you want to add more projects, request a customized roadmap, or continue with more advanced levels, open an issue or send a message.
 
