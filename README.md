@@ -37,8 +37,8 @@ All compatible with pure Python + basic libraries.
 
 ## 🚀 Advanced Level
 
-1. Solving simple differential equations (Calculus II)
-2. Series and infinite sums (Calculus II)
+1. Solving simple differential equations 
+2. Series and infinite sums 
 3. Multilinear algebra: tensors and transformations
 4. Basic database analysis and manipulation (SQL + Python)
 5. Advanced computational logic: circuits and extended truth tables
@@ -80,5 +80,6 @@ Suggestions, corrections, and improvements are always welcome.
 
 ## 📬 Contact 
 If you want to add more projects, request a customized roadmap, or continue with more advanced levels, open an issue or send a message.
+
 
 
